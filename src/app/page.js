@@ -5,6 +5,7 @@ export default function Home() {
     <>
       <h2>Welcome</h2>
       Hello, WEB!
+      <Image src="/js.png" alt="js" width={300} height={300}></Image>
     </>
   );
 }

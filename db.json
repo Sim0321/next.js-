@@ -1,0 +1,126 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is ..."
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is ..."
+    },
+    {
+      "id": 3,
+      "title": "js",
+      "body": "js is ..."
+    },
+    {
+      "title": "react",
+      "body": "react is ...",
+      "id": 4
+    },
+    {
+      "title": "ts",
+      "body": "ts is ...",
+      "id": 5
+    },
+    {
+      "title": "a",
+      "body": "a",
+      "id": 6
+    },
+    {
+      "title": "hello",
+      "body": "hello",
+      "id": 7
+    },
+    {
+      "title": "what",
+      "body": "what?",
+      "id": 8
+    },
+    {
+      "title": "이런",
+      "body": "이런",
+      "id": 9
+    },
+    {
+      "title": "뭔데 ",
+      "body": "뭔데",
+      "id": 10
+    },
+    {
+      "title": "이 씨발",
+      "body": "씨발",
+      "id": 11
+    },
+    {
+      "title": "ㅋㅋ",
+      "body": "ㅋㅋ",
+      "id": 12
+    },
+    {
+      "title": "ㄴㄹㅇㄴ",
+      "body": "ㄴㅇㄹㄴㅇㄹ",
+      "id": 13
+    },
+    {
+      "title": "ㄴㅇㄹ",
+      "body": "ㄴㅇㄹ",
+      "id": 14
+    },
+    {
+      "title": "what",
+      "body": "what",
+      "id": 15
+    },
+    {
+      "title": "hey",
+      "body": "hey",
+      "id": 16
+    },
+    {
+      "title": "waht is",
+      "body": "what is",
+      "id": 17
+    },
+    {
+      "title": "refresh on",
+      "body": "refresh on",
+      "id": 18
+    },
+    {
+      "title": "왜 바로 안뜨는거지?",
+      "body": "왜 바로 안뜨는거지?",
+      "id": 19
+    },
+    {
+      "title": "순서 바꾸기",
+      "body": "순서 바꾸기",
+      "id": 20
+    },
+    {
+      "title": "리벨리데이트",
+      "body": "리벨리데이트",
+      "id": 21
+    }
+  ]
+}
