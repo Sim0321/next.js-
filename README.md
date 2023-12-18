@@ -10,5 +10,3 @@ ex : read > [세그먼트 명] 폴더 생성 > page.js 생성
 page.js 내부에서 props.params.세그먼트
 
 next.js는 js를 사용하지 않고 html을 사용함.
-
-gitignore 성공적?
