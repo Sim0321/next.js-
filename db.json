@@ -88,8 +88,8 @@
       "id": 14
     },
     {
-      "title": "what",
-      "body": "what",
+      "title": "What",
+      "body": "What",
       "id": 15
     },
     {
@@ -103,8 +103,8 @@
       "id": 17
     },
     {
-      "title": "refresh on",
-      "body": "refresh on",
+      "title": "Refresh on",
+      "body": "Refresh on",
       "id": 18
     },
     {
@@ -121,6 +121,11 @@
       "title": "리벨리데이트",
       "body": "리벨리데이트",
       "id": 21
+    },
+    {
+      "title": "왜 바로 안뜨는거지?수정?",
+      "body": "왜 바로 안뜨는거지?수정?",
+      "id": 22
     }
   ]
 }
